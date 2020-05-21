@@ -26,4 +26,4 @@ read dirguess
 $(checkguess $dirguess $dircount)
 
 done
-echo "You got it right!  Congrats!"
+echo "You have done it !  Congrats!"
